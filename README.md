@@ -1,46 +1,47 @@
 # QueerJS Info
 
-Website:  https://queerjs.com/
+:globe_with_meridians: Website:  https://queerjs.com/
 
-Email: hello@queerjs.com
+:love_letter: Email: hello@queerjs.com
 
-## What is it?
+## What is QueerJS?
 
-QueerJS is a meetup started in berlin that expects to go in many more places. The idea of the meetup is that anyone can start their version in their city.
+QueerJS is a meetup that started in Berlin with future events planned for Amsterdam, Barcelona, London, San Francisco and beyond. The idea of the meetup is that anyone can start a version in their city.
 
-This meetup was created to give queer people a safe space. To give them a voice and try to bring some balance to the tech community in these matters and hopefully get some queer speakers in the community so we never get asked to speak about being queer in tech again.
+This meetup was created to give queer people a safe space to lend their voice to the tech community. And hopefully give some visibility to amazing, talented, queer speakers so we never get asked to speak about being queer in tech again.
 
 ## What should I talk about?
 
-Really anything you are passioned about. Talks don't have to be technical and really talk about what your passions. That's the amazing thing about public speaking, you share your passions with the world.
+Anything you're passionate about, really. The talks don't have to be technical (but they certainly can be). The most important thing is that you're excited about your topic. That's the amazing thing about public speaking - you get to share your passions with the world.
 
 ## Can I do a short talk?
 
 Sure! That would be amazing!
 
-## What are the talk lengths?
+## How long should a talk be?
 
-We plan on having talks that last about 20-25 minutes and also lightning talks that should be 5-10 minutes so just do what you are most comfortable with. If you need to go longer just let us know in case we need to warn the venue or something like that.
+At every event, we plan to have a mix of longer 20-25 minute talks and 5-10 minute lightning talks. So do whatever you feel most comfortable with! If you need longer to present, please let us know so we can adjust the schedule or coordinate with the venue.
 
 ## Can you pay for my flights?
-Actually, there is a high probability that I can so if you would like to speak somewhere else where the meetup is happening for any reason ping me and I will let you know if it is possible :)
+
+Actually, there's a good chance that we can. If you'd like to speak at an upcoming meetup and need travel assistance for any reason, ping the QueerJS team and we'll let you know if it's possible :relaxed:
 
 ## Who is behind this?
 
-A bunch of humans, you can meet them all here: https://queerjs.com/organizers
+A bunch of humans! You can meet them all here: https://queerjs.com/organizers
 
-Ping me also if you would like to help organize.
+If you'd like to help organize or bring QueerJS to your city, ping [Sara Vieira](https://github.com/SaraVieira).
 
 ## Can I print the meetup stickers and give them away in other places?
 
-Please do, they are all open source and you can find them here:  https://github.com/queerjs/brand-assets
+Please do, they're all open source and you can find them here:  https://github.com/queerjs/brand-assets
 
 ## Any other questions?
 
-Please open up an issue or ping me at the email at the top!
+Please [open an issue](https://github.com/queerjs/info/issues) or send an email to hello@queerjs.com
 
-Keep being awesome
 
-QueerJS Team
+Keep being awesome! \
+:black_heart: Your QueerJS Team 
 
 
